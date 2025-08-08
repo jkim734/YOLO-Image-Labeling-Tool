@@ -36,6 +36,15 @@
             </PendingDiffInfo>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/requirements.txt">
+          <value>
+            <PendingDiffInfo>
+              <option name="filePath" value="$PROJECT_DIR$/requirements.txt" />
+              <option name="originalContent" value="tkinter&#10;opencv-python&#10;Pillow&#10;numpy&#10;&#10;&#10;" />
+              <option name="updatedContent" value="tkinter&#10;opencv-python&#10;Pillow&#10;numpy&#10;pytest&#10;&#10;# macOS에서 tk 설치 필요시: brew install python-tk" />
+            </PendingDiffInfo>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/yolo_labeler.py">
           <value>
             <PendingDiffInfo>

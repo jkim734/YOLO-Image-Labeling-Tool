@@ -2,4 +2,6 @@ tkinter
 opencv-python
 Pillow
 numpy
+pytest
 
+# macOS에서 tk 설치 필요시: brew install python-tk
