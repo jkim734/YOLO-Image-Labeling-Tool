@@ -24,7 +24,7 @@ pip install -r requirements.txt
 3. **프로젝트 다운로드**
 
 ```bash
-git clone https://github.com/yourusername/YOLO-Image-Labeling-Tool.git
+git clone https://github.com/jkim734/YOLO-Image-Labeling-Tool.git
 cd YOLO-Image-Labeling-Tool
 ```
 
